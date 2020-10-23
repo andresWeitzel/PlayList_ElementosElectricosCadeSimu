@@ -1,2 +1,6 @@
 # PlayList_ElementosElectricosCadeSimu
-Archivos correspondientes a mi curso en youtube: https://www.youtube.com/playlist?list=PLCl11UFjHurCNiVdYTrtqtp222nUb_dqw
+
+**Material del curso que realizo en youtube sobre Elementos Electricoss**
+
+## PlayList:
+- https://www.youtube.com/playlist?list=PLCl11UFjHurCNiVdYTrtqtp222nUb_dqw
